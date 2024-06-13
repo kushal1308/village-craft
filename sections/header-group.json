@@ -1,0 +1,181 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping on domestic orders* over $399. Click here to learn more.",
+            "link": "https:\/\/village-support.gorgias.help\/en-US\/articles\/vship-program-76511",
+            "text_fr": "Livraison gratuite pour les commandes domestiques* de plus de 399 $. Cliquez ici pour en savoir plus.",
+            "link_fr": "https:\/\/villagecraftandcandle.com\/fr\/blogs\/news\/introducing-village-craft-and-candles-vship-program-your-ultimate-shipping-solution"
+          }
+        },
+        "announcement_PW7zBD": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Please note that Village Craft & Candle fulfillment will be closed December 23-27 and January 2, which will impact lead times. Thank you, Happy Holidays!",
+            "link": "",
+            "text_fr": "Welcome to our store",
+            "link_fr": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "announcement_PW7zBD"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "show_line_separator": false,
+        "show_social": false,
+        "auto_rotate": true,
+        "color_bg": "#7fa9a4",
+        "color_text": "#ffffff",
+        "button_show": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "mega_menu_hYydpU": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "NEW!::Aromatics",
+            "push_1_image": "shopify:\/\/shop_images\/Diffusers-33_1.jpg",
+            "push_1_heading": "",
+            "push_1_url": "shopify:\/\/collections\/aromatics",
+            "push_2_heading": "",
+            "push_2_url": ""
+          }
+        },
+        "mega_menu_dLLndH": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "scents",
+            "push_1_image": "shopify:\/\/shop_images\/Shop_Phthalate_Free_Fragrance.png",
+            "push_1_heading": "Shop Phthalate Free Fragrances",
+            "push_1_url": "shopify:\/\/collections\/phthalate-free",
+            "push_2_image": "shopify:\/\/shop_images\/Find_The_Perfect_Fragrance_1.png",
+            "push_2_heading": "Find the Perfect Fragrances",
+            "push_2_url": "shopify:\/\/collections\/top-seller-fragrances"
+          }
+        },
+        "mega_menu_Nbw7fC": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "Wax",
+            "push_1_image": "shopify:\/\/shop_images\/Wax_1_58aed932-123f-4566-bfc0-674792ea799d.png",
+            "push_1_heading": "",
+            "push_1_url": "shopify:\/\/collections\/wax",
+            "push_2_heading": "",
+            "push_2_url": ""
+          }
+        },
+        "mega_menu_7WApV6": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "Wicks",
+            "push_1_image": "shopify:\/\/shop_images\/Wicks.png",
+            "push_1_heading": "",
+            "push_1_url": "shopify:\/\/pages\/how-to-choose-the-right-wick",
+            "push_2_heading": "",
+            "push_2_url": ""
+          }
+        },
+        "mega_menu_rGaFRp": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "Vessels",
+            "push_1_image": "shopify:\/\/shop_images\/Vessels.png",
+            "push_1_heading": "",
+            "push_1_url": "shopify:\/\/collections\/jars",
+            "push_2_heading": "",
+            "push_2_url": ""
+          }
+        },
+        "mega_menu_DDGT9W": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "Supplies",
+            "push_1_image": "shopify:\/\/shop_images\/Supplies.png",
+            "push_1_heading": "",
+            "push_1_url": "shopify:\/\/collections\/candle-molds-and-accessories",
+            "push_2_heading": "",
+            "push_2_url": ""
+          }
+        },
+        "mega_menu_tKciwA": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "Resources",
+            "push_1_image": "shopify:\/\/shop_images\/Resources.png",
+            "push_1_heading": "",
+            "push_1_url": "shopify:\/\/pages\/village-candle-making-resources",
+            "push_2_heading": "",
+            "push_2_url": ""
+          }
+        },
+        "mega_menu_zjVmFU": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "Trends",
+            "push_1_image": "shopify:\/\/shop_images\/Trends.png",
+            "push_1_heading": "",
+            "push_1_url": "shopify:\/\/blogs\/news\/candle-making-spring-summer-trends-2023",
+            "push_2_heading": "",
+            "push_2_url": ""
+          }
+        },
+        "mega_menu_Apkxfz": {
+          "type": "mega_menu",
+          "settings": {
+            "navigation_mega_menu": "REWARDS",
+            "push_1_image": "shopify:\/\/shop_images\/MyVillage_Drop_Down_Menu.png",
+            "push_1_heading": "",
+            "push_1_url": "",
+            "push_2_heading": "",
+            "push_2_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_hYydpU",
+        "mega_menu_dLLndH",
+        "mega_menu_Nbw7fC",
+        "mega_menu_7WApV6",
+        "mega_menu_rGaFRp",
+        "mega_menu_DDGT9W",
+        "mega_menu_tKciwA",
+        "mega_menu_zjVmFU",
+        "mega_menu_Apkxfz"
+      ],
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "new-menu",
+        "menu_type_desktop": "mega",
+        "sticky_header_type": "always",
+        "show_line_separator": false,
+        "color_scheme": "scheme-1",
+        "menu_color_scheme": "scheme-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "left",
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
